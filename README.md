@@ -4,7 +4,7 @@
 
 ## Authors
 
-> To be updated according to the paper author list.
+> Zhenyang Li, Yangyang Guo, Kejie Wang, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli
 
 ## Links
 
